@@ -6,5 +6,5 @@ Desarrollado por Jaison Otalvaro
 |---|---|
 | [Maria Sancho] | [https://github.com/mariasanchoprades1] |
 | [Sarah Mizrahi] | [https://github.com/sarahmizrahi] |
-| [Nombre 3] | [Enlace de Github 3] |
+| [Alexandre López] | [https://github.com/Alexandre-Lopez] |
 
